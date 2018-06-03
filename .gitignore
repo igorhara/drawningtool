@@ -78,3 +78,7 @@ fabric.properties
 hs_err_pid*
 /drawningtool.iml
 !/.mvn/wrapper/maven-wrapper.jar
+.idea/
+.mvn/wrapper/maven-wrapper.jar
+src/main/resources/
+target/
