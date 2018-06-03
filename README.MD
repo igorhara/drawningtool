@@ -1,5 +1,10 @@
 #Drawning Tool:
 
+_In this challenge I took an object oriented approach instead of using only arrays. 
+I know this approach might use more memory. Automated tests were implemented._
+ 
+###Here is the challenge description:
+
 You're given the task of writing a simple drawing tool.
 In a nutshell, the program reads the input.txt, executes a set of commands from the file, step by step, and produces output.txt.
 At this time, the functionality of the program is quite limited but this might change in the future. 
